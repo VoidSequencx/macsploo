@@ -18,7 +18,7 @@ main() {
     rm ./RobloxPlayer.zip
 
     echo -e "Downloading MacSploit"
-    curl "https://cdn.discordapp.com/attachments/1145711068291805315/1195154346556534794/MacSploit.zip" -o "./MacSploit.zip"
+    curl "https://cdn.discordapp.com/attachments/1145711068291805315/1198035291986993192/MacSploit.zip" -o "./MacSploit.zip"
 
     echo -e "Installing MacSploit"
     unzip -o -q "./MacSploit.zip"
